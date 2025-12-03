@@ -68,7 +68,7 @@ Sou um desenvolvedor em formação com interesse em criar soluções inovadoras 
 
 - 📧 **Email:** gabriel.ancelloni@hotmail.com
 - 📱 **Telefone:** (11) 97262-5388
-- 🔗 **LinkedIn:** [Disponível para oportunidades]
+- 🔗 **LinkedIn:** linkedin.com/in/gabriel-ancelloni-662598292
 
 ---
 
