@@ -7,16 +7,16 @@ Sou um estudante de Superior de Tecnologia em Análise e Desenvolvimento de Sist
 
 Sou estudante ADS focado em aprender e me aperferiçoar em Swift, como também estou interessado em me aprofundar nas seguintes tecnologias/ferramentas:
 
-HTML5 e CSS3 - Linguagens de Layout de Páginas Web 
+.HTML5 e CSS3 - Linguagens de Layout de Páginas Web 
 
-Figma - Ferramenta de Prototipagem de Interface 
+.Figma - Ferramenta de Prototipagem de Interface 
 
-Modelagem de Banco de Dados 
+.Modelagem de Banco de Dados 
 
 
   Projetos Pessoais
 
-pokedexSwiftUI
+.pokedexSwiftUI
 
 Área: Desenvolvimento IOS
 
