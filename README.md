@@ -18,7 +18,7 @@ Photoshop - Ferramenta de Edição de Imagens
 
 Sou Analítico, focado em qualidade e precisão, e Planejador, com atuação estruturada e organizada.
 
-🚀 Projeto em Destaque
+  Projetos 
 
 pokedexSwiftUI
 
