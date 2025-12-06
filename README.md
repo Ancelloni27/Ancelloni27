@@ -3,8 +3,7 @@ Sou um estudante de Superior de Tecnologia em Análise e Desenvolvimento de Sist
 
 
 
-💻 Conhecimentos e Interesses
-
+  Conhecimentos e Interesses
 Sou estudante ADS focado em aprender e me aperferiçoar em Swift, como também estou interessado em me aprofundar nas seguintes tecnologias/ferramentas:
 
 HTML5 e CSS3 - Linguagens de Layout de Páginas Web 
@@ -15,16 +14,12 @@ Modelagem de Banco de Dados
 
 
   Projetos Pessoais
-
 pokedexSwiftUI
 
-Área: Desenvolvimento de programas 
-
-Conhecimentos Adquiridos: Swift - Linguagens de Programação Back-end 
+Área: Desenvolvimento IOS
 
 
   Contato
-
 Portfólio Geral (GitHub): https://github.com/Ancelloni27 
 
 E-mail: gabriel.ancelloni@hotmail.com 
