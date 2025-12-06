@@ -17,12 +17,16 @@ Modelagem de Banco de Dados
   Projetos Pessoais
 
 pokedexSwiftUI
+
 Área: Desenvolvimento de programas 
+
 Conhecimentos Adquiridos: Swift - Linguagens de Programação Back-end 
 
 
   Contato
 
 Portfólio Geral (GitHub): https://github.com/Ancelloni27 
+
 E-mail: gabriel.ancelloni@hotmail.com 
+
 Telefone: (11) 97262-5388
