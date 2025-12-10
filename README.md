@@ -7,15 +7,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (Tecnólogo) na FMU , at
   Conhecimentos e tecnologias 
 Focado atualmente em aprender e me aperferiçoar em Swift, como também estou interessado em me aprofundar nas seguintes tecnologias/ferramentas:
 
-. HTML5 e CSS3 - Linguagens de Layout de Páginas Web 
+. HTML5 e CSS3 
 
-. Figma - Ferramenta de Prototipagem de Interface 
+. PHP
 
 . Modelagem de Banco de Dados 
 
 
   Projetos Pessoais
-.pokedexSwiftUI - Um simples app Pokedex 
+.pokedexSwiftUI - Um simples app Pokedex que consome uma API de Pokemons 
 
 
   Contato
