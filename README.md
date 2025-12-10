@@ -1,13 +1,11 @@
 
 
 👋 Olá! Eu sou Gabriel Henrique Ancelloni Cahe
-Sou um estudante em Análise e Desenvolvimento de Sistemas (Tecnólogo) na FMU , atualmente no 3º período. Meu foco de estudo e interesse principal é em Sistemas e Tecnologias da Informação.
+Sou estudante de Análise e Desenvolvimento de Sistemas (Tecnólogo) na FMU , atualmente no 3º período.
 
 
-
-  Conhecimentos e Interesses
-
-Sou estudante ADS focado em aprender e me aperferiçoar em Swift, como também estou interessado em me aprofundar nas seguintes tecnologias/ferramentas:
+  Conhecimentos e tecnologias 
+Focado atualmente em aprender e me aperferiçoar em Swift, como também estou interessado em me aprofundar nas seguintes tecnologias/ferramentas:
 
 . HTML5 e CSS3 - Linguagens de Layout de Páginas Web 
 
@@ -17,14 +15,10 @@ Sou estudante ADS focado em aprender e me aperferiçoar em Swift, como também e
 
 
   Projetos Pessoais
-
-. pokedexSwiftUI
-
-Área: Desenvolvimento IOS
+.pokedexSwiftUI - Um simples app Pokedex 
 
 
   Contato
-
 Portfólio Geral (GitHub): https://github.com/Ancelloni27 
 
 E-mail: gabriel.ancelloni@hotmail.com 
