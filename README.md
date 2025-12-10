@@ -19,8 +19,6 @@ Focado atualmente em aprender e me aperferiçoar em Swift, como também estou in
 
 
   Contato
-Portfólio Geral (GitHub): https://github.com/Ancelloni27 
-
 E-mail: gabriel.ancelloni@hotmail.com 
 
 Telefone: (11) 97262-5388
