@@ -1,7 +1,7 @@
 
 
 👋 Olá! Eu sou Gabriel Henrique Ancelloni Cahe
-Sou um estudante de Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (Tecnólogo) na FMU , atualmente no 3º período. Meu foco de estudo e interesse principal é em Sistemas e Tecnologias da Informação.
+Sou um estudante em Análise e Desenvolvimento de Sistemas (Tecnólogo) na FMU , atualmente no 3º período. Meu foco de estudo e interesse principal é em Sistemas e Tecnologias da Informação.
 
 
 
