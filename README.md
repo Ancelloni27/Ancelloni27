@@ -1,24 +1,7 @@
+Gabriel Henrique Ancelloni Cahe
 
+Estudo desenvolvimento web e mobile. Atualmente focado em Swift e SwiftUI para criar aplicativos iOS, além de HTML e CSS para web. Também curso Análise e Desenvolvimento de Sistemas, onde pratico modelagem de banco de dados e prototipagem de interfaces com Figma e Sketch.
 
-👋 Olá! Eu sou Gabriel Henrique Ancelloni Cahe
-Sou estudante de Análise e Desenvolvimento de Sistemas (Tecnólogo) na FMU , atualmente no 3º período.
+Contato
 
-
-  Conhecimentos e tecnologias 
-Focado atualmente em aprender e me aperferiçoar em Swift, como também estou interessado em me aprofundar nas seguintes tecnologias/ferramentas:
-
-. HTML5 e CSS3 
-
-. PHP
-
-. Modelagem de Banco de Dados 
-
-
-  Projetos Pessoais
-.pokedexSwiftUI - Um simples app Pokedex que consome uma API de Pokemons 
-
-
-  Contato
-E-mail: gabriel.ancelloni@hotmail.com 
-
-Telefone: (11) 97262-5388
+Email: gabriel.ancelloni@hotmail.com
