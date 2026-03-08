@@ -5,4 +5,5 @@ Estudo desenvolvimento web e mobile. Atualmente focado em Swift e SwiftUI para c
 Contatos
 
 Email: ancelloni71@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/gabriel-ancelloni-662598292/
